@@ -1,3 +1,3 @@
 # Repo-1
-This is the first repository I create
-Decription : I have added the first two lines of code
+Repository of my personal works
+Decription : Have added all my personal learnings and projects
